@@ -1,4 +1,4 @@
-# MMO-RPG Basic Template
+# MMO-RPG Client Template
 
 C#과 유니티 엔진을 활용한 MMO RPG 게임 클라이언트 프로젝트입니다. <br>
 [visual studio](https://visualstudio.microsoft.com/ko/) 와 [unity](https://unity.com/kr) 를 활용하여 프로젝트를 시작합니다.
