@@ -6,8 +6,6 @@ C#과 유니티 엔진을 활용한 MMO RPG 게임 클라이언트 프로젝트�
 ## 🖥️ 동작 화면
 ![example](./Assets/Resources/example/example.gif)  
 
-[Demo]()
-
 ## 🎯Main Contents
 
 - 캐릭터 이동, 공격 및 애니메이션
